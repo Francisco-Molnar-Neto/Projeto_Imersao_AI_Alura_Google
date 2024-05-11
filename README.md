@@ -1,5 +1,5 @@
 # Projeto_Imersao_AI_Alura_Google
-Projeto Imersão AI - Alura - Google
+BRAINSTORMING-CHAT
 
 # Apresentação do Projeto
 
@@ -10,6 +10,19 @@ Os dois Convidados Especiais são:
 AI_P , uma instância do Gemini com uma persona "Propositiva", que dá sugestões e ideias para a solução do problema apresentado pelo Moderador.
 
 AI_I . uma instância do Gemini com uma persona "Inquisidora", que faz questionamento que vão em sentido contrário às sugestões apresentadas por todos os participantes.
+
+
+BRAINSTORMING-CHAT
+
+Um Chat em um túnel de comunicação onde os participantes são convidados a discutir um problema ou um tema aplicável a uma empresa ou a uma pesquisa ou em uma sala de aula de uma escola/faculdade.
+
+Este Brainstroming-Chat conta sempre com a partição de dois convidados especiais:
+
+AI_P : Um participante AI-Gemini com persona Propositiva
+
+AI_I : Um participante AI-Gemini com persona Inquisidora
+
+Ambos querem contribuir com o debate, mas o AI_I fomenta os participantes a repensar suas opiniões.
 
 
 # Exemplos de Aplicação
